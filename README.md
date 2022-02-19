@@ -9,14 +9,18 @@ Vendors list based on the one from the [Doyle group at Harvard](http://doylegrou
 - [Vescent](https://vescent.com/)
 
 # Passive optical elements
-## Optics and optomechanics
-- [Ealing Catalog/Hyland Optical Technologies](https://www.ealingcatalog.com/)
+## General (optics and optomechanics)
 - [Thorlabs](https://www.thorlabs.com/)
 - [Newport](https://www.newport.com/)
+
+## Optomechanics
 - [Radiant Dyes Laser & Accessories GmbH](https://www.radiant-dyes.com/)
+  - I've heard good things about their high-stability mounts.
+  - Apparently give decent discounts for large orders.
 
 ## Optics
 - [CASIX](https://www.casix.com/)
+- [Ealing Catalog/Hyland Optical Technologies](https://www.ealingcatalog.com/)
 - [Lambda Research Optics](https://www.lambda.cc/)
 
 ## Fiber Bragg grating
@@ -26,6 +30,9 @@ Vendors list based on the one from the [Doyle group at Harvard](http://doylegrou
 - [Conoptics, Inc.](https://www.conoptics.com/)
 - [Electro-Optics Technology (EOT)](https://www.eotech.com/)
   - Seems to be the OEM supplier of some of [Newport's optical isolators](https://www.newport.com/c/faraday-optical-isolators).
+
+## Optical cavities
+- [Stable Laser Systems](https://stablelasers.com/)
 
 # Active optical devices
 ## Acousto-optic modulators (AOMs)
@@ -58,11 +65,34 @@ Vendors list based on the one from the [Doyle group at Harvard](http://doylegrou
 - [eMachineShop](https://www.emachineshop.com/)
 - [Proto Labs](https://www.protolabs.com/)
 
+## Misc.
+- [80/20](https://8020.net/)
+  - Extrusiosn and associated parts.
+- [OpenBuilds Part Store](https://openbuildspartstore.com/)
+  - Also see [OpenBuilds](https://openbuilds.com/)
+
 ## PCB
 - [Advanced Circuits](https://www.4pcb.com/)
 - [JLCPCB](https://jlcpcb.com/)
 - [Oshpark](https://oshpark.com/)
 
-# Misc.
-- [OpenBuilds Part Store](https://openbuildspartstore.com/)
-  - Also see [OpenBuilds](https://openbuilds.com/)
+# Electronics
+## General
+- [Digi-Key Electronics](https://www.digikey.com/)
+- [Mouser Electronics](https://www.mouser.com/)
+  - Headquartered in Mansfield, TX so fast shipping to Rice.
+
+## RF
+- [Novatech Instruments](https://www.novatechsales.com/)
+  - I like their 409B synthesizers.
+
+# Vacuum
+- [Accu-Glass Products, Inc.](https://www.accuglassproducts.com/)
+- [Duniway Stockroom Corporation](https://www.duniway.com/)
+- [Huntington Vacuum Products](https://huntvac.com/)
+  - Made Rydberg experiment's custom main vacuum chamber.
+- [Kurt J. Lesker Company](https://www.lesker.com/)
+- [LDS Vacuum Products, Inc.](https://www.ldsvacuumshopper.com/)
+  - Cheap stuff and will do some custom work as well.
+- [MDC Precision](https://www.mdcprecision.com/)
+- [MPF Products, INC. (MPFPI)](https://mpfpi.com/)
