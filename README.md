@@ -103,3 +103,11 @@ Vendors list based on the one from the [Doyle group at Harvard](http://doylegrou
   - Cheap stuff and will do some custom work as well.
 - [MDC Precision](https://www.mdcprecision.com/)
 - [MPF Products, INC. (MPFPI)](https://mpfpi.com/)
+
+# Tools
+- [Fiber Instrument Sales](https://www.fiberinstrumentsales.com/)
+  - The [F1MS200U](https://www.fiberinstrumentsales.com/fis-compact-200u-microscope-with-2-5-mm-and-1-25-mm-adapters.html) seems to be equivalent to [Thorlabs' FS201](https://www.thorlabs.com/thorproduct.cfm?partnumber=FS201) and works with Thorlabs adapters.
+
+# Misc.
+- [CableWholesale](https://www.cablewholesale.com/)
+  - I believe this is where we purchased spools of RG58 to make our own BNCs.
