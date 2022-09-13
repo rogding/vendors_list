@@ -2,11 +2,15 @@
 Vendors list based on the one from the [Doyle group at Harvard](http://doylegroup.harvard.edu/wiki/index.php?title=Vendor_List). I haven't necessarily tried all the vendors listed but wanted to keep track of the ones I come across.
 
 # Lasers
+- [Amonics](https://www.amonics.com/)
+  - Primarily fiber amplifiers.
 - [Menlo Systems GmbH](https://www.menlosystems.com/)
   - Optical frequency combs.
 - [MOG Laboratories Pty Ltd](https://www.moglabs.com/)
 - [OEQuest](https://www.oequest.com/)
   - Mentioned in ["Ultrafast optics with a mode-locked erbium fiber laser in the undergraduate laboratory", American Journal of Physics 89, 1152-1160 (2021)](https://doi.org/10.1119/10.0005890) as a vendor for mode-locked Er fiber lasers.
+- [optilab](https://www.optilab.com/)
+  - Sells a variety of products including lasers/sources, modulators and drivers, amplifiers, and detectors.
 - [Sacher Lasertechnik GmbH](https://www.sacher-laser.com/)
   - Apparently they also sell [Reference Gas and Vapor Cells](https://www.sacher-laser.com/home/lab-equipment/spectroscopy/reference_gas_and_vapor_cells/reference_gas_and_vapor_cells.html).
 - [TOPTICA Photonics](https://www.toptica.com/)
