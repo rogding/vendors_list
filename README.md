@@ -89,6 +89,9 @@ Vendors list based on the one from the [Doyle group at Harvard](http://doylegrou
 - [Digi-Key Electronics](https://www.digikey.com/)
 - [Mouser Electronics](https://www.mouser.com/)
   - Headquartered in Mansfield, TX so fast shipping to Rice.
+- [ADSANTEC Advanced Science and Novel Technology Co., Inc.](https://adsantec.com/)
+  - Apparently makes some pseudorandom binary sequence (PRBS) generators that were used for some EO dual-comb stuff.
+    - [Vicente Durán, Camilo Escobar-Vera, Miguel Soriano-Amat, Hugo F. Martins, Sonia Martin-Lopez, Miguel Gonzalez-Herraez, and María R. Fernández-Ruiz, "Dual electro-optic comb spectroscopy using a single pseudo-randomly driven modulator," Opt. Express 30, 25103-25110 (2022)](https://doi.org/10.1364/OE.463604)
 
 ## Laser electronics
 - [Arroyo Instruments, LLC](https://www.arroyoinstruments.com/)
