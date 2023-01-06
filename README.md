@@ -58,6 +58,8 @@ Vendors list based on the one from the [Doyle group at Harvard](http://doylegrou
 - [EOSPACE](https://www.eospace.com/)
 - [iXblue Photonics](https://photonics.ixblue.com/)
 - [Jenoptik](https://www.jenoptik.us/)
+- [Lightwavestore](https://www.lightwavestore.com/)
+  - Looks like they sell some refurbished fiber optic equipment (Peter said he's bought stuff from them before).
 
 # Magnets
 - [Custom Coils, Inc.](https://ccoils.com/)
