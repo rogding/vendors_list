@@ -60,6 +60,8 @@ Vendors list based on the one from the [Doyle group at Harvard](http://doylegrou
 - [Jenoptik](https://www.jenoptik.us/)
 - [Lightwavestore](https://www.lightwavestore.com/)
   - Looks like they sell some refurbished fiber optic equipment (Peter said he's bought stuff from them before).
+- [Photonics Technologies](https://www.photonicstechnologies.com/)
+  - Looks like they sell some EOMs that look very similar to one's I've seen used in Toptica's SHG system.
 
 # Magnets
 - [Custom Coils, Inc.](https://ccoils.com/)
