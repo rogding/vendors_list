@@ -82,6 +82,7 @@ Vendors list inspired by the one from the [Doyle group at Harvard](http://doyleg
   - Looks like they sell some refurbished fiber optic equipment (Peter said he's bought stuff from them before).
 - [Photonics Technologies](https://www.photonicstechnologies.com/)
   - Looks like they sell some EOMs that look very similar to one's I've seen used in Toptica's SHG system.
+  - Also makes vapor cells.
 
 # Magnets
 - [Custom Coils, Inc.](https://ccoils.com/)
@@ -142,6 +143,10 @@ Vendors list inspired by the one from the [Doyle group at Harvard](http://doyleg
   - I like their 409B synthesizers.
 - [Pasternack](https://www.pasternack.com/)
 - [Windfreak Technologies, LLC](https://windfreaktech.com/)
+
+# Vapor cells
+- [Wavelength References](https://www.wavelengthreferences.com/)
+  - Makes vapor reference cells for common gases (e.g., CO2, CH4, HCN, etc.)
 
 # Vacuum
 - [Accu-Glass Products, Inc.](https://www.accuglassproducts.com/)
