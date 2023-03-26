@@ -112,6 +112,10 @@ Vendors list based on the one from the [Doyle group at Harvard](http://doylegrou
 - [Koheron](https://www.koheron.com/)
 - [Liquid Instruments](https://www.liquidinstruments.com/)
 - [qNimble](https://qnimble.com/)
+
+## FPGA
+- [Digilent](https://digilent.com/)
+- [Opal Kelly](https://opalkelly.com/)
 - [Red Pitaya](https://redpitaya.com/)
 
 ## RF
