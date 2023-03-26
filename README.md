@@ -1,5 +1,18 @@
 # vendors_list
-Vendors list based on the one from the [Doyle group at Harvard](http://doylegroup.harvard.edu/wiki/index.php?title=Vendor_List). I haven't necessarily tried all the vendors listed but wanted to keep track of the ones I come across.
+Vendors list inspired by the one from the [Doyle group at Harvard](http://doylegroup.harvard.edu/wiki/index.php?title=Vendor_List). I haven't necessarily tried all the vendors listed but wanted to keep track of the ones I come across.
+
+# Cameras
+- [Allied Vision](https://www.alliedvision.com/en/)
+- [Basler AG](https://www.baslerweb.com/en/)
+- [Oxford Instruments (formerly Andor)](https://andor.oxinst.com/)
+- [Teledyne FLIR (formerly Point Grey)](https://www.flir.com/browse/industrial/machine-vision-cameras/)
+  - Usually their machine vision products (Flea, Blackfly, Grasshopper, etc.)
+
+# Detectors
+- [Excelitas](https://www.excelitas.com/product-category/single-photon-counting-modules)
+  - I've played around with their photon counters a bit.
+- [Hamamatsu Photonics](https://www.hamamatsu.com/us/en.html)
+  - Also makes cameras.
 
 # Lasers
 - [Amonics](https://www.amonics.com/)
