@@ -92,8 +92,11 @@ Vendors list based on the one from the [Doyle group at Harvard](http://doylegrou
 
 ## PCB
 - [Advanced Circuits](https://www.4pcb.com/)
+- [DKRed](https://www.digikey.com/en/resources/dkred)
+  - Apparently Digi-Key also makes PCBs now.
 - [JLCPCB](https://jlcpcb.com/)
 - [Oshpark](https://oshpark.com/)
+- [Seeed Technology/Seeed Studio](https://www.seeedstudio.com/fusion_pcb.html)
 
 # Electronics
 ## General
