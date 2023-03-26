@@ -110,8 +110,15 @@ Vendors list based on the one from the [Doyle group at Harvard](http://doylegrou
 - [Red Pitaya](https://redpitaya.com/)
 
 ## RF
+- [Crystek Corporation](https://www.crystek.com/)
+- [MACOM](https://www.macom.com/)
+  - One of the two companies I've come across that offers connectorized nonlinear transmission lines (NLTLs).
+- [Marki Microwave](https://www.markimicrowave.com/)
+  - One of the two companies I've come across that offers connectorized nonlinear transmission lines (NLTLs).
+- [Mini Circuits](https://www.minicircuits.com/)
 - [Novatech Instruments](https://www.novatechsales.com/)
   - I like their 409B synthesizers.
+- [Pasternack](https://www.pasternack.com/)
 - [Windfreak Technologies, LLC](https://windfreaktech.com/)
 
 # Vacuum
