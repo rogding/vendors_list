@@ -90,7 +90,7 @@ Vendors list based on the one from the [Doyle group at Harvard](http://doylegrou
 - [OpenBuilds Part Store](https://openbuildspartstore.com/)
   - Also see [OpenBuilds](https://openbuilds.com/)
 
-## PCB
+## Printed Circuit Board (PCB)
 - [Advanced Circuits](https://www.4pcb.com/)
 - [DKRed](https://www.digikey.com/en/resources/dkred)
   - Apparently Digi-Key also makes PCBs now.
@@ -113,12 +113,12 @@ Vendors list based on the one from the [Doyle group at Harvard](http://doylegrou
 - [Liquid Instruments](https://www.liquidinstruments.com/)
 - [qNimble](https://qnimble.com/)
 
-## FPGA
+## Field Programmable Gate Array (FPGA)
 - [Digilent](https://digilent.com/)
 - [Opal Kelly](https://opalkelly.com/)
 - [Red Pitaya](https://redpitaya.com/)
 
-## RF
+## RF/microwave
 - [Crystek Corporation](https://www.crystek.com/)
 - [MACOM](https://www.macom.com/)
   - One of the two companies I've come across that offers connectorized nonlinear transmission lines (NLTLs).
