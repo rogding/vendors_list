@@ -51,6 +51,8 @@ Vendors list based on the one from the [Doyle group at Harvard](http://doylegrou
 ## Acousto-optic modulators (AOMs)
 - [AA Opto Electronic](https://www.aaoptoelectronic.com/)
   - I recall them being mentioned as the supplier for some crossed-AOMs for a tweezer experiment.
+- [AeroDIODE](https://www.aerodiode.com/)
+  - Also makes fiber-coupled acousto-optical modulators.
 - [Brimrose Corporation of America](https://www.brimrose.com/)
 - [Gooch & Housego](https://gandh.com/)
 - [IntraAction Corp.](https://intraaction.com/)
