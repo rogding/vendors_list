@@ -31,6 +31,11 @@ Vendors list based on the one from the [Doyle group at Harvard](http://doylegrou
 - [Ealing Catalog/Hyland Optical Technologies](https://www.ealingcatalog.com/)
 - [Lambda Research Optics](https://www.lambda.cc/)
 
+## Optical Coatings
+- [L & L Optical Services](https://llopt.com/)
+- [Reynard Corporation](https://reynardcorp.com/)
+  - Did the antireflection coating for the strontium Rydberg experiment.
+
 ## Fiber Bragg grating
 - [TeraXion](https://www.teraxion.com/)
 
@@ -97,15 +102,21 @@ Vendors list based on the one from the [Doyle group at Harvard](http://doylegrou
   - Apparently makes some pseudorandom binary sequence (PRBS) generators that were used for some EO dual-comb stuff.
     - [Vicente Durán, Camilo Escobar-Vera, Miguel Soriano-Amat, Hugo F. Martins, Sonia Martin-Lopez, Miguel Gonzalez-Herraez, and María R. Fernández-Ruiz, "Dual electro-optic comb spectroscopy using a single pseudo-randomly driven modulator," Opt. Express 30, 25103-25110 (2022)](https://doi.org/10.1364/OE.463604)
 
-## Laser electronics
+## Control
 - [Arroyo Instruments, LLC](https://www.arroyoinstruments.com/)
+- [Koheron](https://www.koheron.com/)
+- [Liquid Instruments](https://www.liquidinstruments.com/)
+- [qNimble](https://qnimble.com/)
+- [Red Pitaya](https://redpitaya.com/)
 
 ## RF
 - [Novatech Instruments](https://www.novatechsales.com/)
   - I like their 409B synthesizers.
+- [Windfreak Technologies, LLC](https://windfreaktech.com/)
 
 # Vacuum
 - [Accu-Glass Products, Inc.](https://www.accuglassproducts.com/)
+- [Allen Scientific Glass, Inc.](https://www.allenglass.com/)
 - [Duniway Stockroom Corporation](https://www.duniway.com/)
 - [Huntington Vacuum Products](https://huntvac.com/)
   - Made Rydberg experiment's custom main vacuum chamber.
@@ -114,6 +125,7 @@ Vendors list based on the one from the [Doyle group at Harvard](http://doylegrou
   - Cheap stuff and will do some custom work as well.
 - [MDC Precision](https://www.mdcprecision.com/)
 - [MPF Products, INC. (MPFPI)](https://mpfpi.com/)
+- [Precision Glassblowing](https://www.precisionglassblowing.com/)
 
 # Tools
 - [Fiber Instrument Sales](https://www.fiberinstrumentsales.com/)
