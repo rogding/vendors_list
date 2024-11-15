@@ -96,7 +96,9 @@ Vendors list inspired by the one from the [Doyle group at Harvard](http://doyleg
 - [Big Blue Saw](https://www.bigbluesaw.com/)
   - Waterjet and laesr cutting.
 - [eMachineShop](https://www.emachineshop.com/)
+- [Front Panel Express](https://www.frontpanelexpress.com/)
 - [Proto Labs](https://www.protolabs.com/)
+- [Protocase](https://www.protocase.com/)
 
 ## Misc.
 - [80/20](https://8020.net/)
